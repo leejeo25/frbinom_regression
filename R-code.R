@@ -1,5 +1,6 @@
 # install.packages("devtools")
 devtools::install_github("leejeo25/fbglm")
+library(fbglm)
 ######## Section 4. Simulation ###########
 ###### subsection 4.1
 library(frbinom)
